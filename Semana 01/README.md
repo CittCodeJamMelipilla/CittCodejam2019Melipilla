@@ -57,3 +57,18 @@ Claro, es tan fácil como suena. Pero… ¿Qué tan ingenioso puede ser para cre
 ‘h’, ‘H’, ‘o’ ‘O’, ‘l’, ‘L’, ‘a’, ‘A’, ‘ ‘, ‘m’, ‘M’, ‘U’, ‘n’, ‘N’, ‘d, ‘D’.
 
 ## Plazo máximo de entrega 22/04/2019 12:00:00. 
+
+
+#
+#
+#
+#
+
+> "Medir el progreso del desarrollo de software por líneas de código es como medir el progreso de la construcción de un avión por su peso"
+  -- Bill Gates
+  
+Somos concientes de que el ejercicio de que este primer ejercicio es extremadamente simple y no evalua tanto habilidades de programación, sino creatividad.
+ 
+ Estos lo hacemos con el fin de presentar el concurso y familiarizar a los participantes con el sistema.
+ 
+ El ejercicio de la Segunda semana en adelante, ya presentaran retos reales de programación.
