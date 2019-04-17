@@ -252,4 +252,4 @@ end
 ### LAS MEJORES SOLUCIONES DE CADA EJERCICIO SERÁN PUBLICADAS EN ESTE REPOSITORIO, AL ENVIAR TU SOLUCIÓN, SE ACEPTA QUE ESTAS SEAN PUBLICADAS
 
 #
-![hagamos JUNTOS algo GRANDE](https://i.ytimg.com/vi/gwEImVJppBU/maxresdefault.jpg)
+![hagamos JUNTOS algo GRANDE](http://i68.tinypic.com/2e3og9x.jpg)
