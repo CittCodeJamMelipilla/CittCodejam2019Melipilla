@@ -7,12 +7,18 @@
 #
 ### Objetivos
 
+<p align="justify">
+
 * Afianzar los conocimientos adquiridos en el aula, de los participantes.
 * Fomentar la creatividad en el desarrollo de algoritmos y generar capacidades analíticas en aras de la resolución de problemas eficientemente.
 * Promover e impulsar las buenas prácticas de programación.
 
+</p>
+
 #
 ### Organización
+
+<p align="justify">
 
 La organización de Citt Code Jam está conformada por integrantes del Centro de Innovación y transferencia tecnológica, quienes se encargan de los aspectos organizativos y Jurado Calificador.
 #### Funciones de la comisión Organizadora
@@ -26,8 +32,12 @@ La organización de Citt Code Jam está conformada por integrantes del Centro de
 * Determinar quienes son los ganadores de cada categoría.
 * Definir la lista de problemas de cada categoría.
 
+</p>
+
 #
 ### Requisitos para participar
+
+<p align="justify">
 
 Solo pueden participar estudiantes de Duoc UC Sede Melipilla.
 * Los concursos de programación se realizarán en 3 categorías: Básico: del 1 al 3, Intermedio: del 1 al 3 y Avanzado: 1 y 2.
@@ -37,8 +47,12 @@ Solo pueden participar estudiantes de Duoc UC Sede Melipilla.
 * No puede participar egresados.
 * Los participantes resolverán un problema en el lapso previamente determinado, que será establecido por el comité organizador y comunicado junto con la entrega del problema.
 
+</p>
+
 #
 ### Evaluación del concurso
+
+<p align="justify">
 
 Las reglas de evaluación del concurso serán las siguientes:
 * Los miembros del Jurado calificador serán los únicos autorizados a realizar el proceso de evaluación.
@@ -49,21 +63,35 @@ Las reglas de evaluación del concurso serán las siguientes:
   * Aplica buenas prácticas de la programación.
   * El código es ingenioso.
 * Los participantes que hayan escrito el código de las tres potenciales soluciones ganadoras de cada categoría serán citados e interrogados por el Jurado calificador.
- 
+
+</p>
+
 #
 ### Eliminación de participante
 
+<p align="justify">
+
 La organización se reserva el derecho de eliminar automáticamente a cualquier participante que altere el buen funcionamiento y el transcurso normal del concurso.
+
+</p>
 
 #
 ### Disposiciones finales
 
+<p align="justify">
+
 Cualquier situación no contemplada en las presentes bases serán resueltas por el comité organizador.
+
+</p>
 
 #
 ### Aceptación de las bases
 
+<p align="justify">
+
 Todos los participantes, al momento de decidir participar, aceptan las condiciones de participación establecidas en estas bases.
+
+</p>
 
 #
 ### Ejemplos de formato esperado en soluciones
@@ -249,9 +277,13 @@ end
 </p>
 </details>
 
+<p align="justify">
+
 #
 ### TODAS LAS SOLUCIONES DEBEN SER ENVIADAS A citt.codejam@gmail.com
 ### LAS MEJORES SOLUCIONES DE CADA EJERCICIO SERÁN PUBLICADAS EN ESTE REPOSITORIO, AL ENVIAR TU SOLUCIÓN, SE ACEPTA QUE ESTAS SEAN PUBLICADAS
+
+</p>
 
 #
 ![hagamos JUNTOS algo GRANDE](http://i68.tinypic.com/2e3og9x.jpg)
