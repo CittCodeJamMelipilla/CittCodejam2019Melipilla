@@ -2,7 +2,11 @@
   <img src="http://i65.tinypic.com/2z57u5h.jpg" alt="CITT Codejam Duoc UC Melipilla 2019">
 </p>
 
+<p align="justify">
+
 #### *Citt Code jam nace del interes en fomentar la práctica de la programación entre los estudiantes de las carreras impartidas por la escuela de informática en **Duoc UC sede Melipilla**, utilizando para ello, ejercicos interesantes y desafiantes, adecuados al nivel esperado de los estudiantes.*
+
+</p>
 
 #
 ### Objetivos
