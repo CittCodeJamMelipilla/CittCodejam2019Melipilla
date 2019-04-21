@@ -4,7 +4,7 @@
 
 <p align="justify">
 
-#### *Citt Code jam nace del interes en fomentar la práctica de la programación entre los estudiantes de las carreras impartidas por la escuela de informática en **Duoc UC sede Melipilla**, utilizando para ello, ejercicos interesantes y desafiantes, adecuados al nivel esperado de los estudiantes.*
+#### *Citt Code jam nace del interés en fomentar la práctica de la programación entre los estudiantes de las carreras impartidas por la escuela de informática en **Duoc UC sede Melipilla**, utilizando para ello, ejercicios interesantes y desafiantes, adecuados al nivel esperado de los estudiantes.*
 
 </p>
 
@@ -33,7 +33,7 @@ La organización de Citt Code Jam está conformada por integrantes del Centro de
 #### Funciones del Jurado Calificador
 * Garantizara la transparencia, objetividad e imparcialidad del concurso.
 * Evaluar los trabajos realizados por los participantes.
-* Determinar quienes son los ganadores de cada categoría.
+* Determinar quiénes son los ganadores de cada categoría.
 * Definir la lista de problemas de cada categoría.
 
 </p>
@@ -291,3 +291,4 @@ end
 
 #
 ![hagamos JUNTOS algo GRANDE](http://i68.tinypic.com/2e3og9x.jpg)
+
