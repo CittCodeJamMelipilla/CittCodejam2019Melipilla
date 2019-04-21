@@ -284,7 +284,7 @@ end
 <p align="justify">
 
 #
-### RETO 1 - [presiona aquí](https://github.com/CittCodeJamMelipilla/CittCodejam2019Melipilla/tree/master/Semana%2001)
+### RETO 1 - [presiona aquí](https://github.com/CittCodeJamMelipilla/CittCodejam2019Melipilla/blob/master/Semana%2001/README.md)
 ### TODAS LAS SOLUCIONES DEBEN SER ENVIADAS A citt.codejam@gmail.com
 ### LAS MEJORES SOLUCIONES DE CADA EJERCICIO SERÁN PUBLICADAS EN ESTE REPOSITORIO, AL ENVIAR TU SOLUCIÓN, SE ACEPTA QUE ESTAS SEAN PUBLICADAS
 
