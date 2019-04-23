@@ -15,7 +15,7 @@ Claro, es tan fácil como suena. Pero… ¿Qué tan ingenioso puede ser para cre
 * Todas las líneas de código deben ser relevantes para el resultado final.
 * Solo se permite el lenguaje de programación Python.
 
-## Plazo máximo de entrega 22/04/2019 12:00:00. 
+## Plazo máximo de entrega 29/04/2019 12:00:00. 
 
 # EJERCICIO INTERMEDIO 1 (Estudiantes de segundo año en adelante)
 
@@ -35,7 +35,7 @@ Claro, es tan fácil como suena. Pero… ¿Qué tan ingenioso puede ser para cre
 * Todas las líneas de código deben ser relevantes para el resultado final.
 * Solo se permiten los lenguajes de programación Python, Java, C#.
 
-## Plazo máximo de entrega 22/04/2019 12:00:00. 
+## Plazo máximo de entrega 29/04/2019 12:00:00. 
 
 # EJERCICIO AVANZADO 1 (Libre)
 
@@ -56,7 +56,7 @@ Claro, es tan fácil como suena. Pero… ¿Qué tan ingenioso puede ser para cre
 * El código no puede contener de manera explícita ninguno de los siguientes caracteres en un String o Character
 ‘h’, ‘H’, ‘o’ ‘O’, ‘l’, ‘L’, ‘a’, ‘A’, ‘ ‘, ‘m’, ‘M’, ‘U’, ‘n’, ‘N’, ‘d, ‘D’.
 
-## Plazo máximo de entrega 22/04/2019 12:00:00. 
+## Plazo máximo de entrega 29/04/2019 12:00:00. 
 
 
 #
