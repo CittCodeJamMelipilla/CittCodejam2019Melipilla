@@ -1,3 +1,13 @@
+>>> # CÓMO PARTICIPAR: PASO A PASO
+>>> 
+>>> * Escoger el o los ejercicios a resolver
+>>> * Escribir la solución en un solo archivo.
+>>> * Guardar el código según el formato del lenguaje, sin compilar.
+>>> * Comprimir el documento en un archivo .rar o .zip. 
+>>> * Enviar el archivo a citt.codejam@gmail.com .
+>>> * Más información en: https://bit.ly/CittCodeJamMelipilla2019 
+
+
 # EJERCICIO BÁSICO 1 (Sólo estudiantes de primer año)
 
 Cree un código que imprima por pantalla “Hola mundo” …
@@ -33,7 +43,7 @@ Claro, es tan fácil como suena. Pero… ¿Qué tan ingenioso puede ser para cre
 * Las líneas de declaración de clases, paquetes, importaciones, declaración de funciones, no serán contadas como líneas de código.
 * Las líneas con comentarios no serán contadas como líneas de código.
 * Todas las líneas de código deben ser relevantes para el resultado final.
-* Solo se permiten los lenguajes de programación Python, Java, C#.
+* Solo se permiten los lenguajes de programación Python, Java, C#. 
 
 ## Plazo máximo de entrega 29/04/2019 12:00:00. 
 
