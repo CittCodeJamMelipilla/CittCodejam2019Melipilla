@@ -43,11 +43,11 @@ La organización de Citt Code Jam está conformada por integrantes del Centro de
 
 <p align="justify">
 
-Solo pueden participar estudiantes de Duoc UC Sede Melipilla.
+Solo pueden participar estudiantes y docentes de Duoc UC Sede Melipilla.
 * Los concursos de programación se realizarán en 3 categorías: Básico: del 1 al 3, Intermedio: del 1 al 3 y Avanzado: 1 y 2.
   * **Básico**: Limitado solo para estudiantes de primer año.
   * **Intermedio**: Limitado solo para estudiantes de segundo año en adelante.
-  * **Avanzado**: Sin restricción de año.
+  * **Avanzado**: Tanto estudiantes como personal docente.
 * No puede participar egresados.
 * Los participantes resolverán un problema en el lapso previamente determinado, que será establecido por el comité organizador y comunicado junto con la entrega del problema.
 
