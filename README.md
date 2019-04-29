@@ -295,7 +295,8 @@ end
 >>> * Más información en: https://bit.ly/CittCodeJamMelipilla2019 
 
 #
-### RETO 1 - [presiona aquí](https://github.com/CittCodeJamMelipilla/CittCodejam2019Melipilla/blob/master/Semana%2001/README.md)
+### [RETO 1 - presiona aquí](https://github.com/CittCodeJamMelipilla/CittCodejam2019Melipilla/blob/master/Semana%2001/README.md)
+### [RETO 2 - presiona aquí)(https://github.com/CittCodeJamMelipilla/CittCodejam2019Melipilla/blob/master/Semana%2002/README.md)
 ### TODAS LAS SOLUCIONES DEBEN SER ENVIADAS A citt.codejam@gmail.com
 ### LAS MEJORES SOLUCIONES DE CADA EJERCICIO SERÁN PUBLICADAS EN ESTE REPOSITORIO, AL ENVIAR TU SOLUCIÓN, SE ACEPTA QUE ESTAS SEAN PUBLICADAS
 
