@@ -4,6 +4,7 @@
 >>> * Escribir la solución en un solo archivo.
 >>> * Guardar el código según el formato del lenguaje, sin compilar.
 >>> * Comprimir el documento en un archivo .rar o .zip. 
+>>> * Colocar la categoría en el asunto del correo.
 >>> * Enviar el archivo a citt.codejam@gmail.com .
 >>> * Más información en: https://bit.ly/CittCodeJamMelipilla2019 
 
