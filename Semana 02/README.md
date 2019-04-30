@@ -42,15 +42,15 @@ Las otras letras no tienen poder y son solo víctimas de esta guerra sin cuartel
 
 # EJERCICIO BÁSICO 2 (Sólo estudiantes de primer año)
 
-Cree una función que reciba el string `pelea` como parámetro, el cual consistirá solo de letras en minúscula, y que retorne quién ganó la pelea.
-Cuando las letras de izquierda ganen, retorne `"¡El lado izquierdo gana!"`, cuando las letras de izquierda ganen, retorne `¡El lado derecho gana!`, en otro caso retorne `"¡Luchemos de nuevo!"`
+Cree un algoritmo que reciba el string `pelea` como input, el cual consistirá solo de letras en minúscula, y que imprima por pantalla quién ganó la pelea.
+Cuando las letras de izquierda ganen, imprima `"¡El lado izquierdo gana!"`, cuando las letras de derecha ganen, imprima `¡El lado derecho gana!`, en otro caso imprima `"¡Luchemos de nuevo!"`
 
 ### Ejemplos
 ```python
-guerra_alfabeto("z")         #=> ¡El lado derecho gana!
-guerra_alfabeto("zdqmwpbs")  #=> ¡Luchemos de nuevo!
-guerra_Alfabeto("zzzzs")     #=> ¡El lado derecho gana!
-guerra_alfabeto("wwwwwwz")   #=> ¡El lado izquierdo gana!
+input = "z"         #=> ¡El lado derecho gana!
+input = "zdqmwpbs"  #=> ¡Luchemos de nuevo!
+input = "zzzzs"     #=> ¡El lado derecho gana!
+input = "wwwwwwz"   #=> ¡El lado izquierdo gana!
 ```
 
 ###### *EN LAS PRIMERAS LÍNEAS DEBE COMENTAR CON SUS DATOS PERSONALES, TALES COMO NOMBRE COMPLETO, CARRERA, SEMESTRE, NÚMERO DE TELÉFONO, CORREO INSTITUCIONAL.*
@@ -60,8 +60,10 @@ guerra_alfabeto("wwwwwwz")   #=> ¡El lado izquierdo gana!
 
 Código base para trabajar:
 ```python
-def guerra_alfabeto(pelea):
-    #Su código aquí
+pelea = str(input("Ingrese los ejercitos:))
+resultado = "" # Cosas raras
+# Más cosas raras.
+print(resultado)
 ```
 
 
@@ -75,7 +77,7 @@ def guerra_alfabeto(pelea):
 Las letras han solicitado Ataques aéreos, ¡Hay puntos y guiones dispersos por doquier en el campo de batalla!
 
 Cree una función que reciba el string `pelea` como parámetro, el cual consistirá solo de letras en minúscula y `*`, que representa donde ha caído una bomba, y que retorne quién ganó la pelea después de que las bombas explotaron.
-Cuando las letras de izquierda ganen, retorne `"¡El lado izquierdo gana!"`, cuando las letras de izquierda ganen, retorne `¡El lado derecho gana!`, en otro caso retorne `"¡Luchemos de nuevo!"`
+Cuando las letras de izquierda ganen, retorne `"¡El lado izquierdo gana!"`, cuando las letras de derecha ganen, retorne `¡El lado derecho gana!`, en otro caso retorne `"¡Luchemos de nuevo!"`
 
 Las bombas `*` matan a las letras adyacentes ( ejemplo `aa*aa` => `a___a`, `**aa**` => `______ `);
 
@@ -159,7 +161,7 @@ Las letras han descubierto una nueva unidad, un sacerdote con el poder del Wolol
 <br><br>
 
 Cree una función que reciba el string `pelea` como parámetro, el cual consistirá solo de letras en minúscula, y que retorne quién ganó la pelea.
-Cuando las letras de izquierda ganen, retorne `"¡El lado izquierdo gana!"`, cuando las letras de izquierda ganen, retorne `¡El lado derecho gana!`, en otro caso retorne `"¡Luchemos de nuevo!"`
+Cuando las letras de izquierda ganen, retorne `"¡El lado izquierdo gana!"`, cuando las letras de derecha ganen, retorne `¡El lado derecho gana!`, en otro caso retorne `"¡Luchemos de nuevo!"`
 
 El poder de las nuevas letras:
 
