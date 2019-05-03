@@ -330,6 +330,7 @@ end
 
 # Ranking actual
 
+(Última actualización 03/05/2019 01:26 GTM-4)
 # Categoría básica
 
 <table>
