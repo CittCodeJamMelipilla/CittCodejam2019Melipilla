@@ -8,6 +8,15 @@
 
 </p>
 
+# Índice
+
+
+* Ranking
+  * [Básico](#Categoría-básica)
+  * Intermedio
+  * Avanzado
+
+
 #
 ### Objetivos
 
@@ -306,3 +315,91 @@ end
 #
 ![hagamos JUNTOS algo GRANDE](http://i68.tinypic.com/2e3og9x.jpg)
 
+<hr>
+
+# Ranking actual
+
+### Categoría básica
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Nombre</th>
+    <th>Carrera</th>
+    <th>Semestre</th>
+    <th>Puntaje</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Fabio Andres Vivas Cabrera</td>
+    <td>Ingeniería en informática</td>
+    <td>1º</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Milenko Alexsey Tomasevic Fernandez</td>
+    <td>Ingeniería en informática</td>
+    <td>1º</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Matias Mauricio Castañeda Mondaca</td>
+    <td>Ingeniería en informática</td>
+    <td>1º</td>
+    <td>1</td>
+  </tr>
+</table>
+
+# Categoría intermedia
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Nombre</th>
+    <th>Carrera</th>
+    <th>Semestre</th>
+    <th>Puntaje</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Mario Pablo Bustos Sanchez</td>
+    <td>Analista Programador Computacional</td>
+    <td>3º</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Matias Antonio Gonzalez Morales</td>
+    <td>Ingeniería en informática</td>
+    <td>5º</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Benjamin Gonzalo Santa cruz Vargas</td>
+    <td>Ingeniería en informática</td>
+    <td>5º</td>
+    <td>1</td>
+  </tr>
+</table>
+
+# Categoría Avanzada
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Nombre</th>
+    <th>Carrera</th>
+    <th>Semestre</th>
+    <th>Puntaje</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Benjamin Gonzalo Santa cruz Vargas</td>
+    <td>Ingeniería en informática</td>
+    <td>5º</td>
+    <td>3</td>
+  </tr>
+</table>
