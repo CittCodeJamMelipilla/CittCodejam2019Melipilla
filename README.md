@@ -8,6 +8,25 @@
 
 </p>
 
+# Índice
+
+* [Bases](#Objetivos)
+  * [Objetivos](#Objetivos)
+  * [Organización](#Organización)
+    * [Comisión Organizadora](#Funciones-de-la-comisión-Organizadora)
+    * [Jurado Calificador](#Funciones-del-Jurado-Calificador)
+  * [Requisitos](#Requisitos-para-participar)
+  * [Evaluación](#Evaluación-del-concurso)
+  * [Eliminación](#Eliminación-de-participante)
+  * [Aceptación de las bases](#Aceptación-de-las-bases)
+* [Ejemplos de soluciones](#Ejemplos-de-formato-esperado-en-soluciones)
+* [**Retos**](#RETOS)
+* [**Ranking**](#Ranking-actual)
+  * [Básico](#Categoría-básica)
+  * [Intermedio](#Categoría-intermedia)
+  * [Avanzado](#Categoría-Avanzada)
+
+
 #
 ### Objetivos
 
@@ -294,7 +313,8 @@ end
 >>> * Enviar el archivo a citt.codejam@gmail.com .
 >>> * Más información en: https://bit.ly/CittCodeJamMelipilla2019 
 
-#
+# RETOS
+
 ### [RETO 1 - presiona aquí](https://github.com/CittCodeJamMelipilla/CittCodejam2019Melipilla/blob/master/Semana%2001/README.md)
 ### [RETO 2 - presiona aquí](https://github.com/CittCodeJamMelipilla/CittCodejam2019Melipilla/blob/master/Semana%2002/README.md)
 
@@ -306,3 +326,92 @@ end
 #
 ![hagamos JUNTOS algo GRANDE](http://i68.tinypic.com/2e3og9x.jpg)
 
+<hr>
+
+# Ranking actual
+
+(Última actualización 03/05/2019 01:26 GTM-4)
+# Categoría básica
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Nombre</th>
+    <th>Carrera</th>
+    <th>Semestre</th>
+    <th>Puntaje</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Fabio Andres Vivas Cabrera</td>
+    <td>Ingeniería en informática</td>
+    <td>1º</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Milenko Alexsey Tomasevic Fernandez</td>
+    <td>Ingeniería en informática</td>
+    <td>1º</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Matias Mauricio Castañeda Mondaca</td>
+    <td>Ingeniería en informática</td>
+    <td>1º</td>
+    <td>1</td>
+  </tr>
+</table>
+
+# Categoría intermedia
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Nombre</th>
+    <th>Carrera</th>
+    <th>Semestre</th>
+    <th>Puntaje</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Mario Pablo Bustos Sanchez</td>
+    <td>Analista Programador Computacional</td>
+    <td>3º</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Matias Antonio Gonzalez Morales</td>
+    <td>Ingeniería en informática</td>
+    <td>5º</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Benjamin Gonzalo Santa cruz Vargas</td>
+    <td>Ingeniería en informática</td>
+    <td>5º</td>
+    <td>1</td>
+  </tr>
+</table>
+
+# Categoría Avanzada
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Nombre</th>
+    <th>Carrera</th>
+    <th>Semestre</th>
+    <th>Puntaje</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Benjamin Gonzalo Santa cruz Vargas</td>
+    <td>Ingeniería en informática</td>
+    <td>5º</td>
+    <td>3</td>
+  </tr>
+</table>
