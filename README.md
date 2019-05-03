@@ -10,11 +10,21 @@
 
 # Índice
 
-
-* Ranking
+* [Bases](#Objetivos)
+  * [Objetivos](#Objetivos)
+  * [Organización](#Organización)
+    * [Comisión Organizadora](#Funciones-de-la-comisión-Organizadora)
+    * [Jurado Calificador](#Funciones-del-Jurado-Calificador)
+  * [Requisitos](#Requisitos-para-participar)
+  * [Evaluación](#Evaluación-del-concurso)
+  * [Eliminación](#Eliminación-de-participante)
+  * [Aceptación de las bases](#Aceptación-de-las-bases)
+* [Ejemplos de soluciones](#Ejemplos-de-formato-esperado-en-soluciones)
+* [**Retos**](#RETOS)
+* [**Ranking**](#Ranking-actual)
   * [Básico](#Categoría-básica)
-  * Intermedio
-  * Avanzado
+  * [Intermedio](#Categoría-intermedia)
+  * [Avanzado](#Categoría-Avanzada)
 
 
 #
@@ -303,7 +313,8 @@ end
 >>> * Enviar el archivo a citt.codejam@gmail.com .
 >>> * Más información en: https://bit.ly/CittCodeJamMelipilla2019 
 
-#
+# RETOS
+
 ### [RETO 1 - presiona aquí](https://github.com/CittCodeJamMelipilla/CittCodejam2019Melipilla/blob/master/Semana%2001/README.md)
 ### [RETO 2 - presiona aquí](https://github.com/CittCodeJamMelipilla/CittCodejam2019Melipilla/blob/master/Semana%2002/README.md)
 
@@ -319,7 +330,7 @@ end
 
 # Ranking actual
 
-### Categoría básica
+# Categoría básica
 
 <table>
   <tr>
