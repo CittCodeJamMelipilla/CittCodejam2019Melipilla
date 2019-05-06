@@ -67,7 +67,7 @@ print(resultado)
 ```
 
 
-## Plazo máximo de entrega 06/05/2019 17:00:00. 
+## Plazo máximo de entrega 13/05/2019 17:00:00. 
 
 
 <hr>
@@ -148,7 +148,7 @@ function guerraAlfabeto(pelea)
 </details> 
 
 
-## Plazo máximo de entrega 06/05/2019 17:00:00. 
+## Plazo máximo de entrega 13/05/2019 17:00:00. 
 
 
 <hr>
@@ -211,5 +211,5 @@ function guerraAlfabeto(pelea)
 ```
 
 
-## Plazo máximo de entrega 06/05/2019 17:00:00. 
+## Plazo máximo de entrega 13/05/2019 17:00:00. 
 
