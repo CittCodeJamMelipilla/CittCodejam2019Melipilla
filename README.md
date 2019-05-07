@@ -330,7 +330,7 @@ end
 
 # Ranking actual
 
-(Última actualización 03/05/2019 01:26 GTM-4)
+(Última actualización 06/05/2019 20:20 GTM-4)
 # Categoría básica
 
 <table>
@@ -408,10 +408,17 @@ end
     <th>Puntaje</th>
   </tr>
   <tr>
-    <td>1</td>
+      <td>1</td>
+      <td>Milenko Alexsey Tomasevic Fernandez</td>
+      <td>Ingeniería en informática</td>
+      <td>1º</td>
+      <td>3</td>
+    </tr>
+  <tr>
+    <td>2</td>
     <td>Benjamin Gonzalo Santa cruz Vargas</td>
     <td>Ingeniería en informática</td>
     <td>5º</td>
-    <td>3</td>
+    <td>2</td>
   </tr>
 </table>
