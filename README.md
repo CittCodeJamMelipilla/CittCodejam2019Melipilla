@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://i65.tinypic.com/2z57u5h.jpg" alt="CITT Codejam Duoc UC Melipilla 2019">
+  <img src="https://res.cloudinary.com/juliorafrecloud/image/upload/v1594352705/Codejam/CodejamLogo.png" alt="CITT Codejam Duoc UC Melipilla 2019">
 </p>
 
 <p align="justify">
