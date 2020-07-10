@@ -324,7 +324,7 @@ end
 </p>
 
 #
-![hagamos JUNTOS algo GRANDE](http://i68.tinypic.com/2e3og9x.jpg)
+
 
 <hr>
 
